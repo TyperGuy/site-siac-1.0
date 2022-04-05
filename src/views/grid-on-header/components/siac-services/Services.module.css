@@ -1,0 +1,17 @@
+.mainContainer{
+  display: flex;
+  flex-direction:column;
+  gap: 16px;
+}
+
+@media only screen and (max-width: 1433px) {
+  .mainContainer{
+    flex-direction:row;
+  }
+}
+
+@media only screen and ( max-width:975px){
+  .mainContainer{
+    flex-direction:column;
+  }
+}

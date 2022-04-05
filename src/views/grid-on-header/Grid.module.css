@@ -1,0 +1,13 @@
+.mainContainer{
+  display:flex;
+  flex-direction:row;
+  gap: 16px;
+  margin-top:40px;
+}
+
+@media only screen and (max-width: 1433px) {
+  .mainContainer{
+    flex-direction:column;
+    align-items:center;
+  }
+}

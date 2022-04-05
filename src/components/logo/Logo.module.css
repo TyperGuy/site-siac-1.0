@@ -1,0 +1,81 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 599px) {
+  .logoContainer{
+    display: flex;
+    flex-direction: row;
+  }
+  .minLogo{
+    display:none;
+   }
+   .siacLogo{
+    height:50px;
+   }
+} 
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .logoContainer{
+    display: flex;
+    flex-direction: row;
+  }
+  .minLogo{
+    display:none;
+   }
+   .siacLogo{
+    height:50px;
+   }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .logoContainer{
+    display: flex;
+    flex-direction: row;
+  }
+  .minLogo{
+    height:50px;
+    display:unset;
+   }
+   .siacLogo{
+    height:50px;
+   }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .logoContainer{
+    display: flex;
+    flex-direction: row;
+  }
+  .minLogo{
+    height:50px;
+    display:unset;
+   }
+   .siacLogo{
+    height:50px;
+   }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .logoContainer{
+    display: flex;
+    flex-direction: row;
+  }
+  .minLogo{
+    height:50px;
+    display:unset;
+   }
+   .siacLogo{
+    height:50px;
+   }
+}
+
+.minPngLogo{
+  min-height:50px;
+  max-height:50px;
+  width:368px;
+}
+
+
+

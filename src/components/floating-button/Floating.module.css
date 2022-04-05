@@ -1,0 +1,23 @@
+.floating{
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  background-color: #FE0000;
+  color: #fff;
+  width:70px;
+  height:70px;
+  bottom: 40px;
+  right: 40px;
+  border-radius:50%;
+  animation: pulse 1500ms infinite;
+  position:fixed;
+  z-index: 100;
+  cursor: pointer;
+  
+}
+
+ @keyframes pulse {
+   0% { box-shadow: #FE0000 0 0 0 0; }
+   75% {box-shadow: #ff69b400 0 0 0 20px; }
+ }
+ 

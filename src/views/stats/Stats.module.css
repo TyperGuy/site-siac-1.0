@@ -1,0 +1,153 @@
+.statsContainer{
+  width: 100%;
+  padding: 20px 0;
+  background-color:#FE0000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  z-index: 2;
+  gap: 20px;
+}
+.statsInnerContainer{
+  width: 1433px;
+  display: flex;
+  justify-content:space-between;
+  align-items:center;
+  gap: 20px;
+}
+
+
+@media screen and (max-width: 615px) {
+
+  .statsInnerContainer{
+    width:332px;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .statsInfContainer{
+    width:100%;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+  }
+
+}
+
+@media screen and  (max-width:764px) and (min-width: 616px) {
+  .statsInnerContainer{
+    width:332px;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .statsInfContainer{
+    width:100%;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+  }
+
+  
+}
+
+@media screen and  (min-width: 765px) and (max-width:1082px) {
+  .statsInnerContainer{
+    width: 662px;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .statsInfContainer{
+    width:100%;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+  }
+
+  
+}
+
+@media screen and  (min-width: 1082px) and (max-width:1560px) {
+  .statsInnerContainer{
+    width:1000px;
+    height:100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-between;
+  }
+  .statsInfContainer{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-between;
+  }
+
+}
+
+
+
+
+@media screen and (min-width: 1562px) {  
+
+  .statsContainer{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+  }
+
+ 
+  .titleContainer{
+    width:30%;
+  }
+  .statsInfContainer{
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items:center;
+
+  }
+
+ 
+}
+
+ /* Information Component Style*/
+ .statsComponent{
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+}
+.up{
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+ margin-bottom:10px;
+}
+.iconContainer{
+  width:50px;
+  height:50px;
+  border: 1px #fff dashed;
+  margin-right: 10px;
+  border-radius:5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size:1.9rem;
+}
+.metrics{
+  font-size:2rem;
+  font-weight:bold;
+}
+.content{
+  font-size: 1rem;
+}

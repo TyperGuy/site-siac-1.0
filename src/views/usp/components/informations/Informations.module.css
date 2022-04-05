@@ -1,0 +1,23 @@
+.container{
+  display: flex;
+  flex-direction: column
+}
+.reqContainer{
+  display: flex;
+  flex-direction: column;
+  gap:.5rem;
+  padding: 1rem;
+}
+.serviceTitle{
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+.myLis{
+  margin: 0;
+  padding: 0;
+  list-style-position: inside;
+  list-style-type: circle;
+}
+.panel{
+  background-color:#f5f5f5;
+}

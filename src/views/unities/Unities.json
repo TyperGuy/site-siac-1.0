@@ -1,0 +1,137 @@
+ [
+    {
+      "name": "SIAC Talatona",
+      "adress" : "Luanda, Talatona, Via A12",
+      "descriprion" : "O SIAC foi fundado com o intuito de melhorar o serviço de atendimento ao cidadão. Oferecendo todos os serviços que o cidadão precisa num só espaço físico.",
+      "abertura": 8,
+      "encerramento": 17,
+      "mapUrl" : "https://www.google.com/maps/place/SIAC/@-8.9159981,13.1961549,17z/data=!3m1!4b1!4m5!3m4!1s0x1a51f51867f40e8b:0x8c5fddf31bb91d29!8m2!3d-8.9160034!4d13.1983436"    
+    },
+    {
+      "name": "SIAC Cazenga ( Filda )",
+      "adress" : "Av. Filda, S/N, Zona 19, Comuna do Tala Hady",
+      "descriprion" : "O SIAC foi fundado com o intuito de melhorar o serviço de atendimento ao cidadão. Oferecendo todos os serviços que o cidadão precisa num só espaço físico.",
+      "abertura": 8,
+      "encerramento": 11,
+      "mapUrl" : "https://www.google.com/maps/place/SIAC+Cazenga/@-8.8540035,13.2938104,17z/data=!3m1!4b1!4m5!3m4!1s0x1a51f18b45fd13ef:0xefc935d1ee969d4e!8m2!3d-8.8540146!4d13.2960089"
+    },
+    {
+      "name": "SIAC Bengo",
+      "adress" : "Dande, Rua direita de Caxito S/N, Bengo",
+      "descriprion" : "O SIAC foi fundado com o intuito de melhorar o serviço de atendimento ao cidadão. Oferecendo todos os serviços que o cidadão precisa num só espaço físico.",
+      "abertura": 8,
+      "encerramento": 15,
+      "mapUrl" : "https://www.google.com/maps/place/SIAC/@-8.5861776,13.6483184,20.96z/data=!4m12!1m6!3m5!1s0x1a4e2208a10fc0c7:0xac1f562fa655bec1!2sSIAC!8m2!3d-8.5863159!4d13.6480816!3m4!1s0x1a4e2208a10fc0c7:0xac1f562fa655bec1!8m2!3d-8.5863159!4d13.6480816"
+    },
+    {
+      "name": "SIAC Benguela",
+      "adress" : "Zona A, Bairro 70 S/N",
+      "descriprion" : "O SIAC foi fundado com o intuito de melhorar o serviço de atendimento ao cidadão. Oferecendo todos os serviços que o cidadão precisa num só espaço físico.",
+      "abertura": 8,
+      "encerramento":10,
+      "mapUrl" : "https://www.google.com/maps/place/Siac+Benguela/@-12.6026538,13.3962558,14.08z/data=!4m5!3m4!1s0x1bafd10269de37d5:0x49f0ea9d562b4bd2!8m2!3d-12.6034351!4d13.4088563"
+    },
+    {
+      "name": "SIAC Cabinda",
+      "adress" : "Centralidade do Chibodo, E/N do Subantando, Km 7",
+      "descriprion" : "O SIAC foi fundado com o intuito de melhorar o serviço de atendimento ao cidadão. Oferecendo todos os serviços que o cidadão precisa num só espaço físico.",
+      "abertura": 8,
+      "encerramento": 15,
+      "mapUrl" : "https://www.google.com/maps/place/SIAC/@-5.5509169,12.2831638,17z/data=!3m1!4b1!4m5!3m4!1s0x1a5dcda459042a91:0x2cb41558642c52e!8m2!3d-5.550889!4d12.2853221"
+    },
+    {
+      "name": "SIAC Cacuaco",
+      "adress" : "Via Expresso, Cacuaco-Viana, SIAC ",
+      "descriprion" : "O SIAC foi fundado com o intuito de melhorar o serviço de atendimento ao cidadão. Oferecendo todos os serviços que o cidadão precisa num só espaço físico.",
+      "abertura": 8,
+      "encerramento": 10,
+      "mapUrl" : "https://www.google.com/maps/place/SIAC/@-8.80197,13.4018211,17z/data=!4m12!1m6!3m5!1s0x1a51fae2dfc0eed5:0xf21255d7d29662b7!2sSIAC!8m2!3d-8.8023452!4d13.4021613!3m4!1s0x1a51fae2dfc0eed5:0xf21255d7d29662b7!8m2!3d-8.8023452!4d13.4021613"
+    },
+    {
+      "name": "SIAC Huambo",
+      "adress" : "Rua Teixeira de Sousa, S/N, Bairro São João",
+      "descriprion" : "O SIAC foi fundado com o intuito de melhorar o serviço de atendimento ao cidadão. Oferecendo todos os serviços que o cidadão precisa num só espaço físico.",
+      "abertura": 8,
+      "encerramento": 15,
+      "mapUrl" : "https://www.google.com/maps/place/SIAC+Huambo/@-12.7533742,15.7496342,15.74z/data=!4m5!3m4!1s0x1bb775bee43ec75b:0xf4bf032408866656!8m2!3d-12.7591106!4d15.7546306"
+    },
+    {
+      "name": "SIAC Malanje",
+      "adress" : "Rua Comandante Dangereux, Estrada 230",
+      "descriprion" : "O SIAC foi fundado com o intuito de melhorar o serviço de atendimento ao cidadão. Oferecendo todos os serviços que o cidadão precisa num só espaço físico.",
+      "abertura": 8,
+      "encerramento": 15,
+      "mapUrl" : "https://www.google.com/maps/place/SIAC+Malanje/@-9.5448641,16.3633541,17z/data=!3m1!4b1!4m5!3m4!1s0x1a4a87dfcee99595:0x8f16ee8a81678aeb!8m2!3d-9.5448367!4d16.3655064"
+    },
+    {
+      "name": "SIAC Saurimo",
+      "adress" : "Estrada do Aeroporto, Bairro Txizainga 2",
+      "descriprion" : "O SIAC foi fundado com o intuito de melhorar o serviço de atendimento ao cidadão. Oferecendo todos os serviços que o cidadão precisa num só espaço físico.",
+      "abertura": 8,
+      "encerramento": 15,
+      "mapUrl" : "https://www.google.com/maps/place/SIAC+SAURIMO/@-9.6730786,20.4036866,16.33z/data=!4m12!1m6!3m5!1s0x1a2cde600b396df1:0x6643f95dcfb989c2!2sSIAC+SAURIMO!8m2!3d-9.6697611!4d20.4026366!3m4!1s0x1a2cde600b396df1:0x6643f95dcfb989c2!8m2!3d-9.6697611!4d20.4026366"
+    },
+    {
+      "name": "SIAC Uíge",
+      "adress" : "Estrada do Aeroporto, Bairro Txizainga 2",
+      "descriprion" : "O SIAC foi fundado com o intuito de melhorar o serviço de atendimento ao cidadão. Oferecendo todos os serviços que o cidadão precisa num só espaço físico.",
+      "abertura": 8,
+      "encerramento": 15,
+      "mapUrl" : "https://www.google.com/maps/"
+    },
+    {
+      "name": "SIAC Zango",
+      "adress" : "Zango, Zango 4",
+      "descriprion" : "O SIAC foi fundado com o intuito de melhorar o serviço de atendimento ao cidadão. Oferecendo todos os serviços que o cidadão precisa num só espaço físico.",
+      "abertura": 8,
+      "encerramento": 15,
+      "mapUrl" : "https://www.google.com/maps/place/SIAC,+Zango/@-9.0703266,13.4103285,17.05z/data=!4m5!3m4!1s0x1a520378bbdfcc65:0xa8f7860121a476eb!8m2!3d-9.0703934!4d13.4127339"
+    },
+    {
+      "name": "SIAC Cunene",
+      "adress" : "Cunene, Ondjiva",
+      "descriprion" : "O SIAC foi fundado com o intuito de melhorar o serviço de atendimento ao cidadão. Oferecendo todos os serviços que o cidadão precisa num só espaço físico.",
+      "abertura": 8,
+      "encerramento":15,
+      "mapUrl" : "https://www.google.com/maps/place/SIAC+-+ONDJIVA/@-17.0877788,15.7420051,17z/data=!3m1!4b1!4m5!3m4!1s0x1b946178351b664f:0x3cdbde4efc63b826!8m2!3d-17.0877839!4d15.7441938"
+    },
+    {
+      "name": "SIAC Lubango",
+      "adress" : "  Avª Dr. António Agostinho Neto - Lubango",
+      "descriprion" : "O SIAC foi fundado com o intuito de melhorar o serviço de atendimento ao cidadão. Oferecendo todos os serviços que o cidadão precisa num só espaço físico.",
+      "abertura": 8,
+      "encerramento": 15,
+      "mapUrl" : "https://www.google.com/maps/place/SIAC+Lubango/@-14.923895,13.470574,17.63z/data=!4m5!3m4!1s0x1ba34be31c1c95ff:0xe643578e3cd20b2c!8m2!3d-14.925261!4d13.4749723"
+    },
+    {
+      "name": "SIAC Kalawenda",
+      "adress" : "Centralidade do Cazenga, zona 19",
+      "descriprion" : "O SIAC foi fundado com o intuito de melhorar o serviço de atendimento ao cidadão. Oferecendo todos os serviços que o cidadão precisa num só espaço físico.",
+      "abertura": 8,
+      "encerramento": 15,
+      "mapUrl" : "https://www.google.com/maps/place/SIAC+Kalawenda+(Cazenga+2)/@-8.856947,13.3145043,17z/data=!3m1!4b1!4m5!3m4!1s0x1a51f162bb50113b:0xe8683bda3ef853da!8m2!3d-8.8568719!4d13.316679"
+    },
+    {
+      "name": "SIAC Marconi",
+      "adress" : "Centralidade do Marconi.",
+      "descriprion" : "O SIAC foi fundado com o intuito de melhorar o serviço de atendimento ao cidadão. Oferecendo todos os serviços que o cidadão precisa num só espaço físico.",
+      "abertura": 8,
+      "encerramento":15,
+      "mapUrl" : "https://www.google.com/maps/place/CENTRALIDADE+MARCONI/@-8.8260381,13.2141389,14.35z/data=!4m5!3m4!1s0x1a51f317c9ea3c51:0x3f7a70d87d3c32a4!8m2!3d-8.8146556!4d13.2301756"
+    },
+    {
+      "name": "SIAC Luena",
+      "adress" : "Rua direita do Hospital Geral",
+      "descriprion" : "O SIAC foi fundado com o intuito de melhorar o serviço de atendimento ao cidadão. Oferecendo todos os serviços que o cidadão precisa num só espaço físico.",
+      "abertura": 8,
+      "encerramento": 15,
+      "mapUrl" : "https://www.google.com/maps/place/SIAC+Luena/@-11.7872934,19.9002506,17z/data=!3m1!4b1!4m5!3m4!1s0x1bd1c14f674cc143:0xd448a199ad6e76aa!8m2!3d-11.7872934!4d19.9024393"
+    }
+  ]
+
+  
+
+  
+
+ 
+

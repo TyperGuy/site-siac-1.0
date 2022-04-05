@@ -1,0 +1,107 @@
+.slideContainer{
+  display:flex;
+  overflow-x:hidden;
+  transition:all .5s ease-out;
+  scroll-behavior: smooth;
+  align-self: center;
+  gap: 11px;
+}
+
+.containerChild{
+  position:relative;
+  margin: 0 40px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+}
+
+.arrowContainer{
+  display: flex;
+  flex-direction:row;
+  justify-content: space-between;
+}
+.heading{
+  align-self: flex-start;
+  color: #000;
+  margin-bottom: 10px;
+}
+
+@media screen and (max-width: 615px) {
+
+  .slideContainer{
+    width: 332px;
+  }
+  
+  .containerChild{
+    flex-direction: column;
+  }
+  .arrowContainer{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    margin-top: 0;
+  }
+
+}
+
+@media screen and  (max-width:764px) and (min-width: 616px) {
+  .slideContainer{
+    width: 332px;
+  }
+  .arrowContainer{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    width: 450px;
+    margin-top: 250px;
+    position: absolute;
+  }
+}
+
+@media screen and  (min-width: 765px) and (max-width:1082px) {
+  .slideContainer{
+    width: 662px;
+  }
+  .arrowContainer{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    width: 760px;
+    margin-top: 250px;
+    position: absolute;
+  }
+}
+
+@media screen and  (min-width: 1082px) and (max-width:1560px) {
+  .slideContainer{
+    width: 995px;
+  }
+  .arrowContainer{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    width: 1070px;
+    margin-top: 250px;
+    position: absolute;
+  }
+}
+
+
+
+
+@media screen and (min-width: 1562px) {
+
+  .slideContainer{
+    width: 1433px;
+  }
+  .arrowContainer{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    width: 1420px;
+    margin-top: 250px;
+    position: absolute;
+  }
+  
+
+}

@@ -1,0 +1,12 @@
+{
+  "opened" : {
+    "bGcolor" : "#DCEDC8",
+    "color" : "#03ac4a",
+    "status" : "Aberto"
+  },
+  "closed":{
+    "bGcolor" : "#ffd2c1",
+    "color" : "#e93322",
+    "status" : "Fechado"
+  }
+}

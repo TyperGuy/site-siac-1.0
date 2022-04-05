@@ -1,0 +1,9 @@
+.mainItem{
+  padding: 20px 40px;
+  transition: all .2s ease-in-out;
+}
+
+.mainItem:hover{
+  background-color:rgb(255, 255, 255);
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+}

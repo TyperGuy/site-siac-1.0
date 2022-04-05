@@ -1,0 +1,127 @@
+ /* Dropdown Button */
+ .dropbtn {
+  transition: all .3s ease-in-out;
+  color: #fff;
+  font-size: 16px;
+  border: none;
+  height:100%;
+  padding: 22px 16px;
+}
+
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdownContent {
+ 
+  min-width: 340px;
+  display: none;
+  position: absolute;
+  background-color: #ffffff;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  z-index: 1;
+  border-radius: 5px;
+  gap: 5px;
+  padding: 10px;
+}
+
+
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdownContent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: #ff3c3c;} 
+
+.linkContainer{
+  width:100%;
+  display: flex;
+  align-items: center;
+  z-index: 5;
+  transition: all 0.2s ease-in-out;
+} 
+.linkContainer:hover{
+  background-color:#eff1f4;
+  border-radius: 3px;
+}
+
+
+
+.link{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  margin-left:8px;
+  border-bottom: 1px solid #f1f1f1;
+  transform-origin: top center;
+  animation: rotateX 300ms 60ms ease-in-out ;
+  cursor: pointer;
+}
+
+
+
+
+
+.arrow {
+  visibility: hidden;
+  color:#FE0000;
+  margin-right: 10px;
+  font-size:1.2em;
+  :hover > & {
+    visibility: visible;
+  }
+}
+.link {
+  margin-top: 10px;
+  color: rgb(14, 14, 14);
+  
+
+  :hover > & {
+    color:#FE0000;
+  }
+}
+.link span{
+  margin-bottom: 10px;
+  font-size: .8rem;
+  color: rgb(148, 148, 148);
+  :hover > & {
+    color:#FE0000;
+  }
+}
+
+.marker{
+  width: 15px;
+  height: 15px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: -6px;
+  left: 10px;
+  transform: rotate(45deg);
+}
+
+@keyframes rotateX {
+  0% {
+    transform: scaleY(0)
+  }
+  80% {
+    transform: scaleY(1.1)
+  }
+  100% {
+    transform: scaleY(1)
+  }
+}

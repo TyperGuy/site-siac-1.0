@@ -1,0 +1,18 @@
+[
+  { 
+    "titulo" : "COVID-19",
+    "conteudo" : "Esteja por dentro das informações relacionadas a Covid-19",
+    "callToAction" : "Saber mais",
+    "isLink":true,
+    "to": "https://www.cisp.gov.ao:10443/"
+  },
+  {
+   
+    "titulo" : "Meu SIAC",
+    "conteudo" : "Descubra o SIAC mais Proximo que ofereça o serviço que precisa!",
+    "callToAction" : "Descobrir",
+    "isLink":false,
+    "to": "/FAQ"
+    
+  }
+]

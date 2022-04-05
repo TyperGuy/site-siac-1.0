@@ -1,0 +1,79 @@
+[
+  {
+    "id" : "1",
+    "question" : "1. Qual O horário de funcionamento do SIAC ?",
+    "answer" : "O SIAC funciona para atendimento a Empresas e Pessoas na unidade de Talatona de segunda-feira a sexta-feira das 08:00 às 15:30h e aos sábados, das 08:00 às 13:00h."
+  },
+  {
+    "id" : "2",
+    "question" : "2. Existe Algum custo para solicitar uma vaga na Unidade de intermediação de Mão de Obra ?",
+    "answer" : "Não. Este serviço é gratuito."
+  },
+  {
+    "id" : "3",
+    "question" : "3. Posso requerer minha Carta de Condução no SIAC? e o exame teórico aonde faço?",
+    "answer" : "Sim, você precisa se dirigir ao SIAC Talatona onde este serviços estará disponível. O exame teórico poderá ser feito no mesmo local."
+  },
+  {
+    "id" : "4",
+    "question" : "4. Posso agendar um horário por telefone para solicitar serviços?",
+    "answer" : "Não, o SIAC Talatona ainda não agenda serviços por telefone."
+  },
+  {
+    "id" : "5",
+    "question" : "5. O jovem em busca do primeiro emprego também pode se cadastrar para concorrer a vagas?",
+    "answer" : "Sim, o Serviço de Intermediação de Mão de Obra permite o cadatramento de jovens em busca do seu primeiro emprego."
+  },
+  {
+    "id" : "6",
+    "question" : "6. O Cartão do Contribuinte pode ser solicitado no SIAC?",
+    "answer" : "Sim, para maiores detalhes consulte o menu de opção SERVIÇOS neste sítio."
+  },
+  {
+    "id" : "7",
+    "question" : "7. Quem tem direito a atendimento preferencial?",
+    "answer" : "Tem direito a atendimento preferencial:todas as pessoas com necessidades especiais;idosos;gestantes;lactantes;pessoas acompanhadas por crianças de colo."
+  },
+  {
+    "id" : "8",
+    "question" : "8. Posso solicitar pensão de sobrevivência no SIAC?",
+    "answer" : "Sim, para maiores detalhes consulte o menu de opção SERVIÇOS neste sítio."
+  },
+  {
+    "id" : "9",
+    "question" : "9. O subsídio maternidade pode ser obtido no SIAC?",
+    "answer" : "Sim, para maiores detalhes consulte o menu de opção SERVIÇOS neste sítio."
+  },
+  {
+    "id" : "10",
+    "question" : "10. No SIAC eu consigo obter pensão de reforma?",
+    "answer" : "Sim, para maiores detalhes consulte o menu de opção SERVIÇOS neste sítio."
+  },
+  {
+    "id" : "11",
+    "question" : "11. Qual a idade mínima para se inscrever na UIMO?",
+    "answer" : "A idade mínima para se cadastrar no Sistema de Intermediação de Mão de Obra é de 18 anos."
+  },
+  {
+    "id" : "12",
+    "question" : "12. Posso solicitar certificado de registo criminal no SIAC?",
+    "answer" : "Sim, para maiores detalhes consulte o menu de opção SERVIÇOS neste sítio."
+  },
+  {
+    "id" : "13",
+    "question" : "13. No SIAC eu consigo obter pensão de sobrevivência?",
+    "answer" : "Sim, para maiores detalhes consulte o menu de opção SERVIÇOS neste sítio."
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+]

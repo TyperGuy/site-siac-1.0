@@ -1,0 +1,16 @@
+{
+  "unity":{
+      "unities": "15 +",
+      "content" : "Unidades espealhadas em 9 Provícncias de Angola"
+    },
+  "services":{
+      "services":"30 +",
+      "content": "Disponiveis para o cidadão, em todas Unidades"
+    },
+  "partner":{
+      "partners":"10 +",
+      "content": "Parceiros públicos e privados"
+    }
+  ,
+  "title": "O SIAC tem crescido ao longo do tempo, para estar mais próximo do cidadão."
+}

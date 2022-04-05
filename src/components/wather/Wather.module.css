@@ -1,0 +1,13 @@
+
+.weather{
+  display: flex;
+  align-items:center;
+ }
+
+ @media only screen and (max-width:999px) {
+  .weather{
+   display: none;
+  }
+}
+
+

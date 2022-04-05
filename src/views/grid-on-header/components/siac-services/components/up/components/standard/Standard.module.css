@@ -1,0 +1,9 @@
+.contentContainer{
+  display: flex;
+  flex-direction:column;
+  width:190px;
+  color:#fff;
+  margin-left: 20px;
+  align-self: flex-end;
+  margin-bottom: 20px;
+}

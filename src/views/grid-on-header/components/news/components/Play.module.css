@@ -1,0 +1,9 @@
+
+.insideCircle{
+ animation: pulse 1500ms infinite;
+}
+
+@keyframes pulse {
+  0% { box-shadow: #3778b7 0 0 0 0; }
+  75% {box-shadow: #ff69b400 0 0 0 16px; }
+}

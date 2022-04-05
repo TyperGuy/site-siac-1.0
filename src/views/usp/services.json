@@ -1,0 +1,205 @@
+[
+  {
+    "acronym" : "Direcção Nacional de Identificação, Registo e Notariado ",
+    "name" : "DNIRN",
+    "services" :[
+      {
+        "serviceName" : "",
+        "documents" :[
+
+        ],
+        "requirements" : [
+
+        ],
+        "warnings" : [
+          {
+            "title" : "Não chegue atrasado",
+            "content" : "O Atraso não é tolerado, caso atrase poderá perder o seu lugar"
+          },
+          {
+            "title" : "Não chegue atrasado",
+            "content" : "O Atraso não é tolerado, caso atrase poderá perder o seu lugar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "acronym" : "Administração geral tributária",
+    "name" : "AGT",
+    "services" :[
+      {
+        "serviceName" : "Pagamentos de Imposto Correntes",
+        "documents" :[ "Número de Identificação Fiscal do contribuinte (NIF)","Bilhete de identidade"
+
+        ],
+        "requirements" : ["Ter idade igual ou superior a 18 anos","Ser um contribuinte"
+
+        ],
+        "warnings" : [
+          {
+            "title" : "Não chegue atrasado",
+            "content" : "O Atraso não é tolerado, caso atrase poderá perder o seu lugar",
+            "variant" : "success"
+          },
+          {
+            "title" : "Não pague gasosa",
+            "content" : "A corrupção passiva constitui crime. O SIAC condena toda pratica relacionada a corrupção",
+            "variant" : "error"
+          }
+        ]
+      },
+      {
+        "serviceName" : "Receitas de Serviços Diversos",
+        "documents" :[ "Número de Identificação Fiscal do beneficiário dos serviços ou Bilhete de Identidade","Número de Identificação Fiscal da Instituição beneficiária da receita",
+          "Descrição do valor á pagar", "Descrição da receita a pagar (Código da receita)"
+
+        ],
+        "requirements" : ["Ter idade igual ou superior a 18 anos","Ser um contribuinte"
+
+        ],
+        "warnings" : [
+          {
+            "title" : "Não chegue atrasado",
+            "content" : "O Atraso não é tolerado, caso atrase poderá perder o seu lugar",
+            "variant" : "success"
+          },
+          {
+            "title" : "Não pague gasosa",
+            "content" : "A corrupção passiva constitui crime. O SIAC condena toda pratica relacionada a corrupção",
+            "variant" : "error"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "acronym" : "Registro Cívil",
+    "name" : "Registro Cívil",
+    "services" :[
+      {
+        "serviceName" : "",
+        "documents" :[
+
+        ],
+        "requirements" : [
+
+        ],
+        "warnings" : [
+          {
+            "title" : "Não chegue atrasado",
+            "content" : "O Atraso não é tolerado, caso atrase poderá perder o seu lugar"
+          },
+          {
+            "title" : "Não chegue atrasado",
+            "content" : "O Atraso não é tolerado, caso atrase poderá perder o seu lugar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "acronym" : "Direcção de Trânsito e Segurança Rodoviária ",
+    "name" : "DTSER",
+    "services" :[
+      {
+        "serviceName" : "",
+        "documents" :[
+
+        ],
+        "requirements" : [
+
+        ],
+        "warnings" : [
+          {
+            "title" : "Não chegue atrasado",
+            "content" : "O Atraso não é tolerado, caso atrase poderá perder o seu lugar"
+          },
+          {
+            "title" : "Não chegue atrasado",
+            "content" : "O Atraso não é tolerado, caso atrase poderá perder o seu lugar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "acronym" : "Serviços para empresas",
+    "name" : "Empresas",
+    "services" :[
+      {
+        "serviceName" : "",
+        "documents" :[
+
+        ],
+        "requirements" : [
+
+        ],
+        "warnings" : [
+          {
+            "title" : "Não chegue atrasado",
+            "content" : "O Atraso não é tolerado, caso atrase poderá perder o seu lugar"
+          },
+          {
+            "title" : "Não chegue atrasado",
+            "content" : "O Atraso não é tolerado, caso atrase poderá perder o seu lugar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "acronym" : "Instituto Nacional de Segurança Social",
+    "name" : "INSS",
+    "services" :[
+      {
+        "serviceName" : "",
+        "documents" :[
+
+        ],
+        "requirements" : [
+
+        ],
+        "warnings" : [
+          {
+            "title" : "Não chegue atrasado",
+            "content" : "O Atraso não é tolerado, caso atrase poderá perder o seu lugar",
+            "variant" : "success"
+          },
+          {
+            "title" : "Não pague gasosa",
+            "content" : "A corrupção passiva constitui crime. O SIAC condena toda pratica relacionada a corrupção",
+            "variant" : "error"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "acronym" : "Direcção Nacional de Identificação, Registo e Notariado ",
+    "name" : "Notariado",
+    "services" :[
+      {
+        "serviceName" : "",
+        "documents" :[
+
+        ],
+        "requirements" : [
+
+        ],
+        "warnings" : [
+          {
+            "title" : "Não chegue atrasado",
+            "content" : "O Atraso não é tolerado, caso atrase poderá perder o seu lugar"
+          },
+          {
+            "title" : "Não chegue atrasado",
+            "content" : "O Atraso não é tolerado, caso atrase poderá perder o seu lugar"
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

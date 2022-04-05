@@ -1,0 +1,22 @@
+{
+  "social" : {  
+  "tag": "Redes sociais",
+  "facebook" : "Facebook",
+  "instagram" : "Instagram",
+  "youtube" : "YouTube"
+  },
+  "linksUteis" : {
+    "tag": "Links úteis",
+    "maptss" : "MAPTSS",
+    "inss" : "Segurança Social",
+    "enap" : "ENAP"
+  },
+  "newsLatter" : {
+    "tag": "Subscreva a nossa NewsLatter",
+    "text" : "Receba notificações sempre que o SIAC tiver novidades. Esteja informado!",
+    "placeholder" : "Digite aqui o seu Email",
+    "btnText": "Subscrever"
+  }
+
+
+}
