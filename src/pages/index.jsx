@@ -15,7 +15,7 @@ export default function Home() {
       <Fam/>
       <Stats/>
       <Partners/>
-      
+      <Floating/>
       <MessengerCustomerChat
         pageId="108266877196447"
         appId="631180188161263"
