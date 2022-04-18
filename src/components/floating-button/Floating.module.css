@@ -4,9 +4,9 @@
   align-items:center;
   background-color: #FE0000;
   color: #fff;
-  width:55px;
-  height:55px;
-  bottom: 30px;
+  width:60px;
+  height:60px;
+  bottom: 25px;
   right: 110px;
   border-radius:50%;
   animation: pulse 1500ms infinite;
