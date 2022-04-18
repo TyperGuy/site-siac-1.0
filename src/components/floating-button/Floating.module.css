@@ -4,10 +4,10 @@
   align-items:center;
   background-color: #FE0000;
   color: #fff;
-  width:70px;
-  height:70px;
+  width:55px;
+  height:55px;
   bottom: 40px;
-  right: 40px;
+  right: 110px;
   border-radius:50%;
   animation: pulse 1500ms infinite;
   position:fixed;
