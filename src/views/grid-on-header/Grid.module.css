@@ -1,8 +1,14 @@
 .mainContainer{
+  width: 70%;
   display:flex;
   flex-direction:row;
+  justify-content:space-between;
   gap: 16px;
   margin-top:40px;
+}
+.img{
+  width:700px;
+  margin-top:5px;
 }
 
 @media only screen and (max-width: 1433px) {

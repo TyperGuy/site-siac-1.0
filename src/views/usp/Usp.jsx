@@ -30,9 +30,6 @@ export default function USP(){
         }
         </TabPanels>
       </Tabs> 
-      <div>
-        <Advertising/>
-      </div>
     </div>
   )
 }
