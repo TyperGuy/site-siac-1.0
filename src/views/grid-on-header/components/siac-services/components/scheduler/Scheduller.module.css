@@ -3,18 +3,15 @@
 .main{
 
   width:477px;
-  height: 265px;
-  background:linear-gradient(45deg, #ff0c0c 20%, #a10000 80%);
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px, rgba(0, 0, 0, 0.04) 0px 10px 10px;
-  overflow: hidden;
+  height: 280px;
+  background-color: #F6F6F6;
   border-radius:5px;
   transition: all .5s ease-in-out;
-
+  border: 1px solid #0d7abd;
 }
 
 .main:hover{
-  transform: translate3d(4px, -4px, 0px) scale3d(1.03, 1.03, 1) rotateX(0deg) rotateY(0deg) rotateZ(.5deg) skew(0deg);
-  transform-style: preserve-3d;
+  transform: scale(1.01,1.01);
   box-shadow: 0 12px 40px 0 rgba(0,0,0,.16);
 }
 
@@ -27,6 +24,7 @@
 
 .img{
   width:250px;
+  height:90%;
   position:relative;
   align-self: flex-end;
   -moz-transform: scaleX(-1);
@@ -39,9 +37,10 @@
 .contentContainer{
   display: flex;
   flex-direction:column;
-  color:#fff;
+  color:#1a202c;
   align-self: center;
   margin-left: 20px;
+  gap: .5rem;
 }
 
 

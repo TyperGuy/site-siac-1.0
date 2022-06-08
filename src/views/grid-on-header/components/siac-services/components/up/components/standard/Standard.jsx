@@ -6,11 +6,7 @@ import Style from './Standard.module.css';
 import Link from 'next/link'
 
 
-
-
-
-function StandardContainer(props){
-  const Container = styled.div `
+const Container = styled.div `
     width: 230px;
     height: 280px;
     background-position: center;
@@ -19,8 +15,7 @@ function StandardContainer(props){
     border-radius:5px;
     transition: all .5s ease-in-out;
     &:hover {
-      transform: translate3d(4px, -4px, 0px) scale3d(1.03, 1.03, 1) rotateX(0deg) rotateY(0deg) rotateZ(.5deg) skew(0deg);
-      transform-style: preserve-3d;
+      transform: scale(1.01,1.01);
       box-shadow: 0 12px 40px 0 rgba(0,0,0,.16);
     }
   `
@@ -28,13 +23,12 @@ function StandardContainer(props){
   const Child = styled.div `
     width: 100%;
     height: 100%; 
-    background: -moz-linear-gradient(45deg,  #3377bb 30% ,#3778b7 70%);
-    background: -webkit-linear-gradient(45deg,  #3377bb 30%,#3778b7 70% ); 
-    background: linear-gradient(45deg,  #3377bb 30%,#3778b7 70%);
+    background-color:#0d7abd;
     border-radius:5px;
     display: flex;
     transition: all .5s ease-in-out;  
   `
+function StandardContainer(props){
   return(
     <Container>
       <Child>
