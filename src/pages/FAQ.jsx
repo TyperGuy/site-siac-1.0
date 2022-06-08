@@ -8,7 +8,7 @@ function FAQ () {
   return(
     <Flex width="vw" justify="center" align="center" direction="column">
       <Image src={img} marginTop="20px" width="40vw"  alt="Citizens Image"/>
-      <Flex width="70vw" direction="column">
+      <Flex width="50vw" direction="column">
         <hr/>
         <Flex flexWrap="wrap" gap="4" justify="space-between"  direction="column">
           <p style={{marginTop:25, marginBottom:10,fontWeight:500,fontSize:"1.5rem", color:"#abaeb0"}}>Perguntas mais Frequêntes</p>
