@@ -9,8 +9,8 @@ export default function Home() {
   return (
     <div style={{display: 'flex', alignItems: 'center' ,flexDirection:'column', position:'relative'}}>
       <Grid/>
-      <Benefic/>
       <Fam/>
+      <Benefic/>
       <Stats/>
       <Partners/>
       <Floating/>

@@ -7,15 +7,11 @@ import Services from './components/siac-services/Services.jsx';
 
 function Grid(){
   return(
-       <> 
-        <div className={Style.mainContainer}>
-          <Services/>
-          <News/>
-        </div>
-        <Publicity/>
-      </> 
-      )
- 
+    <div className={Style.mainContainer}>
+      <Services/>
+      <News/>
+    </div>
+  )
 }
 
 export default Grid;
